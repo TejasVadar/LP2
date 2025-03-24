@@ -1,4 +1,4 @@
 print('Heloo');
-var a = 10;
-var b=2;
+a = 10;
+b=2;
 print(a+b);
